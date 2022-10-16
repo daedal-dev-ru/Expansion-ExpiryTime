@@ -90,7 +90,6 @@ public class ExpiryExpansion extends PlaceholderExpansion implements Configurabl
                     return numbers_color + (int) toDays + days;
                 }
             }
-            return null;
         }
         return null;
     }
